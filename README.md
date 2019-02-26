@@ -5,6 +5,7 @@ Create a game from any genre (Action, Card, Fighting, Platformer, Racing, Shoote
 
 When submitting your work please include the following info about the game:
 - Short Description
+- Game Screenshot
 - Controls
 - Credits
 - Software & version used
