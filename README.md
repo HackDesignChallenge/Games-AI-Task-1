@@ -1,14 +1,12 @@
-# Games-AI-Task-1
-Create a Game &amp; an AI bot
-# Gad Selection
+# (Invaders)
 
-Games AI Task 5: Create an educational game, which is an example of AI itself.
+Games AI Task 1: Create a Game &amp; an AI bot
 
 # Short description:
-We have to breed a specific kind of genetic alien devices (GAD) through the process of multi-stage directed selection. You have an objective feature state (color) which we want to be achieved in at least one of the GADs. Then we select those GADs whiose genes could be used to achieve a GAD closer to the objective in the next generation of GADs. The non-selected GADs are selected and disposed and a new generation of GADs are breeded by mating the selected ones. Sometimes we will need to use the random mutation as a mean to move the selection in new direction.
+
 
 # Screenshot:
-![alt text](https://github.com/HackDesignChallenge/Games-AI-Task-5/blob/develop/art-assets/gad_selection_001.png "Title screen")
+![alt text]( "Title screen")
 
 # Controls:
 
@@ -22,20 +20,20 @@ Unity
 
 # Credits:
 
-Story/Gameplay: Angel Marchev
+Story/Gameplay: 
 
-2D Art: Mihaela Komitova
+2D Art: Plamen Petroff
 
 Animation / Effects: Anton Slavov
 
-Game Development: Martin Doychev
+Game Development: Stefan Doychev, Anton Slavov
 
-AI implementation: Angel Marchev
+AI implementation: 
 
-Audio: Angel Marchev, Dimitar Atanassov
+Audio: Dimitar Atanassov
 
 # AI notes:
-The game introduces the players to the evolutional algorithms. Playing as the de-facto-algorithm, they learn the most important phases of the one such algorithm - the multi-stage selection procedure.
+
 
 # Diversifiers used:
 
