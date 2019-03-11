@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [System.Serializable]
 public class Boundary
@@ -56,8 +57,9 @@ public class PlayerController : MonoBehaviour
         lifePoints--;
         if (lifePoints <= 0)
         {
-            Destroy(gameObject);
+            Camera.main.GetComponent<ReloadLevel>().ReloadLevelWithDelay();
             gameManager.GameOver();
+            Destroy(gameObject);
         }
     }
 }
