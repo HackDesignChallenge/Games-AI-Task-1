@@ -5,10 +5,10 @@ Games AI Task 1: Create a Game &amp; an AI bot
 The inerplanetary enemies re-spawn wave after wave and the lone protector has to fire at them back, or at least ram them away. 
 
 # Screenshot:
-![alt text](https://github.com/HackDesignChallenge/Games-AI-Task-1/blob/develop/re_spawn.png "Title screen")
+![alt text](https://github.com/HackDesignChallenge/Games-AI-Task-1/blob/master/re_spawn.png "Title screen")
 
 # Build:
-[Task 3 build](https://github.com/HackDesignChallenge/Games-AI-Task-3/blob/master/Task%203/Task%203%20Build.zip)
+[Task 1 build](https://github.com/HackDesignChallenge/Games-AI-Task-1/blob/master/Task%201.zip)
 
 # Controls:
 ←, →, Space.
