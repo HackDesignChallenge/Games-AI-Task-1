@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Enemy
   - EnemyProjectile
   - GameManager
-  - Enemy
+  - Team2
+  - Asteroid
   layers:
   - Default
   - TransparentFX
