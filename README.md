@@ -32,6 +32,6 @@ Very simple behavior tree
 
 
 # Diversifiers used:
-Gimme an interview, please – Incorporate a local legend / funny story in the game you create.
+Not the bees - The mechanic is based on swarm tactics.
 
 8-bit colours only – You are only allowed to choose and work with 8-bit colours for all your game assets.
